@@ -1,0 +1,20 @@
+{
+    "view_fields": {
+        "llegada": {
+            "Hora": "hora ll",
+            "Origen": "Vía",
+            "Referencia": "Vía",
+            "H. salida": "",
+            "Fecha": "Llegada",
+            "Nombre invitado": "Nombre"
+        },
+        "salida": {
+            "Hora": "Hora s Coche",
+            "Origen": "Via S",
+            "Referencia": "Vía Salida",
+            "H. salida": "hora s",
+            "Fecha": "Salida",
+            "Nombre invitado": "Nombre"
+        }
+    }
+}
